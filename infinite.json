@@ -18,12 +18,12 @@
         "DownloadLinkInstall": "https://github.com/serifas/InfiniteRP/raw/main/latest.zip",
         "DownloadLinkTesting": "https://github.com/serifas/InfiniteRP/raw/main/latest.zip",
         "DownloadLinkUpdate": "https://github.com/serifas/InfiniteRP/raw/main/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/serifas/InfiniteRP/main/images/icon.png",
+        "IconUrl": "https://github.com/serifas/InfiniteRP/raw/main/imagesicon.png",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/serifas/InfiniteRP/main/images/bio.png",
-            "https://raw.githubusercontent.com/serifas/InfiniteRP/main/images/story.png",
-            "https://raw.githubusercontent.com/serifas/InfiniteRP/main/images/bookmarks.png",
-            "https://raw.githubusercontent.com/serifas/InfiniteRP/main/images/gallery.png",
+            "https://github.com/serifas/InfiniteRP/raw/main/images/bio.png",
+            "https://github.com/serifas/InfiniteRP/raw/main/images/story.png",
+            "https://github.com/serifas/InfiniteRP/raw/main/images/bookmarks.png",
+            "https://github.com/serifas/InfiniteRP/raw/main/images/gallery.png",
           ],
     }
 ]
