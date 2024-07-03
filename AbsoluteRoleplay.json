@@ -1,12 +1,12 @@
 {
   "Author": "Lynie",
-  "Name": "Infinite Roleplay",
-  "InternalName": "InfiniteRoleplay",
+  "Name": "Absolute Roleplay",
+  "InternalName": "AbsoluteRoleplay",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "Use /infinite or the settings button to open.",
+  "Description": "Use /absolute or the settings button to open.",
   "ApplicableVersion": "any",
   "Tags": [
-    "Infinite",
+    "Absolute",
     "Roleplay",
     "RP"
   ],
