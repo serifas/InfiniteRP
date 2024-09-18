@@ -6,6 +6,7 @@
         "InternalName": "AbsoluteRoleplay",
         "AssemblyVersion": "0.0.0.3",
         "TestingAssemblyVersion": "0.0.0.3",
+        "DalamudApiLevel": 10,
         "RepoUrl": "https://github.com/serifas/AbsoluteRP",
         "ApplicableVersion": "any",
         "IsHide": "False",
